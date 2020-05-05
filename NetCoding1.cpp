@@ -63,7 +63,6 @@ int main()
 		if (INVALID_SOCKET == client)
 		{
 			cout << "接受到无效客户端Socket!" << endl;
-			//return 0;
 			int t = 2000;
 			while (t--);
 			continue;
