@@ -8,3 +8,5 @@ NetClient1是客户端
 然后再打开客户端程序，若运行成功，会收到服务器发来的字符串“Hello,I'm Server.”
 
 运行环境：VS2017
+
+![Step by step to build a Server/Client](https://github.com/Zcj-XD-Bj/CppwinSock2/blob/master/TIM%E6%88%AA%E5%9B%BE20200505155048.png)
